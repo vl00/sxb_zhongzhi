@@ -1,0 +1,141 @@
+﻿{
+  "searchTxt": "当前搜索框的文本",
+  "schoolsPageInfo": {
+    "currentPageItems": [
+      {
+        "id": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
+        "id_s": "lyega",
+        "name": "江东土豪老虎职业学院",
+        "logo": null,
+        "address": "养鸡村1号",
+        "tel": "111000213",
+        "nature": "独立院校",
+        "level": "国家级示范",
+        "hotMajors": [
+          "钓老虎", "养鸡"          
+        ]
+      },
+      {
+        "id": "2fa85f64-5717-4562-b3fc-2e963f66afa6",
+        "id_s": "axios",
+        "name": "马猴学院",
+        "logo": null,
+        "address": "养鸡村2号",
+        "tel": "111000113",
+        "nature": "民办",
+        "level": "示范性高职",
+        "hotMajors": [
+          "钓老虎", "养鸡"          
+        ]
+      },
+      {
+        "id": "1fa85f64-5717-4562-b3fc-2e963f66afa6",
+        "id_s": "axs",
+        "name": "马猴学院2",
+        "logo": null,
+        "address": "养鸡村2号",
+        "tel": "111000113",
+        "nature": "民办",
+        "level": "示范性高职",
+        "hotMajors": [
+          "钓老虎", "养鸡"          
+        ]
+      },
+      {
+        "id": "6fa85f64-5717-4562-b3fc-2e963f66afa6",
+        "id_s": "os",
+        "name": "马猴学院3",
+        "logo": null,
+        "address": "养鸡村2号",
+        "tel": "111000113",
+        "nature": "民办",
+        "level": "示范性高职",
+        "hotMajors": [
+          "钓老虎", "养鸡"          
+        ]
+      },
+      {
+        "id": "2fa75f64-5717-4562-b3fc-2e963f66afa6",
+        "id_s": "rehehe",
+        "name": "马猴学院4",
+        "logo": null,
+        "address": "养鸡村2号",
+        "tel": "111000113",
+        "nature": "民办",
+        "level": "示范性高职",
+        "hotMajors": [
+          "钓老虎", "养鸡"          
+        ]
+      },
+      {
+        "id": "2fa75f64-5717-4562-c3fc-2e963f66afa6",
+        "id_s": "hgkhgvk",
+        "name": "马猴学院6",
+        "logo": null,
+        "address": "养鸡村2号",
+        "tel": "111000113",
+        "nature": "民办",
+        "level": "示范性高职",
+        "hotMajors": [
+          "钓老虎", "养鸡"          
+        ]
+      },
+      {
+        "id": "2f075f94-5717-4562-b3fc-2e963f66afa6",
+        "id_s": "hty",
+        "name": "马猴学院7",
+        "logo": null,
+        "address": "养鸡村2号",
+        "tel": "111000113",
+        "nature": "民办",
+        "level": "示范性高职",
+        "hotMajors": [
+          "钓老虎", "养鸡"          
+        ]
+      },
+      {
+        "id": "9fa75f64-5717-4262-b3fc-2e963f66afa6",
+        "id_s": "ghmgmh",
+        "name": "马猴学院8",
+        "logo": null,
+        "address": "养鸡村2号",
+        "tel": "111000113",
+        "nature": "民办",
+        "level": "示范性高职",
+        "hotMajors": [
+          "钓老虎", "养鸡"          
+        ]
+      },
+      {
+        "id": "efc75f64-5717-4562-b3fc-2e963f66afa6",
+        "id_s": "gfhfh",
+        "name": "马猴学院9",
+        "logo": null,
+        "address": "养鸡村2号",
+        "tel": "111000113",
+        "nature": "民办",
+        "level": "示范性高职",
+        "hotMajors": [
+          "钓老虎", "养鸡"          
+        ]
+      },
+      {
+        "id": "ffa75f64-5717-4562-b3fc-2e963f66afa6",
+        "id_s": "czxvz",
+        "name": "马猴学院10",
+        "logo": null,
+        "address": "养鸡村2号",
+        "tel": "111000113",
+        "nature": "民办",
+        "level": "示范性高职",
+        "hotMajors": [
+          "钓老虎", "养鸡"          
+        ]
+      },
+    ],
+    "currentPageIndex": 1,
+    "pageSize": 10,
+    "totalItemCount": 10,
+    "totalPageCount": 1
+  }
+}

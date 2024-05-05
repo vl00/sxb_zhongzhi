@@ -1,0 +1,31 @@
+﻿{
+  "prci": [
+    {
+      "id": "ci450100",
+      "name": "南宁市",
+      "pid": "pr440000"
+    },
+    {
+      "id": "ci450300",
+      "name": "桂林市",
+      "pid": "pr440000"
+    },
+  ],
+  "ma": [
+    {
+      "id": "ma1x1",
+      "name": "国际商务",
+      "pid": "ma1",
+      "list": null
+    },
+    {
+      "id": "ma1x2",
+      "name": "电子商务",
+      "pid": "ma1",
+      "list": null
+    }
+  ],
+  "ty": null,
+  "na": null,
+  "lv": null,
+}

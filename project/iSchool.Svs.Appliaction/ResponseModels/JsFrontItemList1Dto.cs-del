@@ -1,0 +1,43 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Text;
+
+namespace iSchool.Svs.Appliaction.ResponseModels
+{
+    /**        
+        {
+          type: [
+            { id: 1, type: "name" },
+            ...
+          ],
+          item: [
+            {
+              item_list: [
+                { id: 1, val: "name" },
+              ]   
+            },
+            ...
+          ]
+        }
+    */
+
+    public class JsFrontItemList1Dto
+    {
+        public IEnumerable<JsFrontItem1> Type { get; set; }
+        public IEnumerable<JsFrontItem_list1> Item { get; set; }
+    }
+
+    public class JsFrontItem1
+    {
+        public int Id { get; set; }
+        // for $.type
+        public string Type { get; set; }
+        // for $.item[].item_list
+        public string Val { get; set; }
+    }
+
+    public class JsFrontItem_list1
+    {
+        public IEnumerable<JsFrontItem1> Item_list { get; set; }
+    }    
+}
